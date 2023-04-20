@@ -12,7 +12,7 @@ See \code{hutchpal::hutch_colors()}.}
 
 \item{reverse}{Should the palette be reversed?}
 
-\item{...}{Additional arguments passed to \code{ggplot2::scale_color_gradientn()}.}
+\item{...}{Additional arguments passed to \code{ggplot2::scale_color_manual()}.}
 }
 \description{
 Color scale constructor for Fred Hutch colors
